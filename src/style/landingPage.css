@@ -1,0 +1,44 @@
+.myBg {
+  height: 100vh;
+  background-image: url("../assets/images/bg/bglandingpage.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.intro {
+  height: 300px;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+}
+
+.title {
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1;
+  text-shadow: 2px 2px black;
+  letter-spacing: 5px;
+}
+
+.trending {
+  height: auto;
+  background-image: url("../assets/images/bg/batman.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.superHero {
+  height: auto;
+  background-image: url("../assets/images/bg/bgDark.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.movieImage {
+  height: auto;
+  margin: 5px;
+  padding: 5px;
+}
+
+.images {
+  height: 500px;
+}
